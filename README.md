@@ -1,6 +1,8 @@
 pySkyNet a Python wrapper for SkyNet
 ====================================
 
+[![Join the chat at https://gitter.im/cbonnett/SkyNet_wrapper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cbonnett/SkyNet_wrapper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Documentation:
 --------------
 
